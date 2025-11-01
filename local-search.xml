@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>pv4</title>
+    <link href="/2025/10/31/pv4/"/>
+    <url>/2025/10/31/pv4/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>#my-video</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"/videos/pv.mp4","pic":"/images/cover.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    
+    
+    <categories>
+      
+      <category>video</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>video_presentation</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>测试文章1.0</title>
+    <link href="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/"/>
+    <url>/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>可爱的蓝色恶魔和黑色恶魔：</p>        <div id="aplayer-KZMtoNsJ" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-KZMtoNsJ"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "春日影",              author: "“mygo”",              url: "http://music.163.com/song/media/outer/url?id=2097486090.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/1.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/2.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/3.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/4.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/5.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/6.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/7.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/8.jpg" class=""><img src="/2025/10/17/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A01-0/9.jpg" class="">]]></content>
+    
+    
+    <categories>
+      
+      <category>java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Redis</title>
+    <link href="/2025/10/16/111/"/>
+    <url>/2025/10/16/111/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Redis</tag>
+      
+      <tag>Java Web</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/10/16/hello-world/"/>
+    <url>/2025/10/16/hello-world/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>        <div id="aplayer-qtRhZdQn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-qtRhZdQn"),            narrow: false,            autoplay: true,            showlrc: false,            music: {              title: "Shooting stars",              author: "Blue Archive",              url: "http://music.163.com/song/media/outer/url?id=2093260104.mp3",              pic: "",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
